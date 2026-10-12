@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="thirteenflames"
+version="${file.jarVersion}"
+displayName="Trinadtsat Ognei | Trinadcat Ognej (Thirteen Flames)"
+authors="Fan-made"
+credits="Inspired by story seasons of MrLololoshka"
+description="Fan-made mod by MrLololoshka universe: the Thirteen Flames of Misr, Lololoshka merch, JDH (John) merch and the Interworlder mask. Not affiliated with the original author."
+
+[[dependencies.thirteenflames]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.thirteenflames]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

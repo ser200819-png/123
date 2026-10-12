@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "W",
+    "W",
+    "W"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:orange_wool"
+    }
+  },
+  "result": {
+    "item": "thirteenflames:sharf_johna",
+    "count": 1
+  }
+}

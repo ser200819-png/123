@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G G",
+    "D D"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "D": {
+      "item": "minecraft:orange_dye"
+    }
+  },
+  "result": {
+    "item": "thirteenflames:ochki_johna",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "thirteenflames:item/luk_knefmtiti_pulling_2"
+  }
+}

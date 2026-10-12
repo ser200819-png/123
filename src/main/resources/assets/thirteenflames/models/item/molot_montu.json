@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "thirteenflames:item/molot_montu"
+  }
+}
